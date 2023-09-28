@@ -1,5 +1,5 @@
 # GirlHacks-2023
-Try it out at: [tinyverse-gh2023.streamlit.app](url)
+Try it out at: [(https://tinyverse-gh2023.streamlit.app/)](url)
 
 For GirlHacks hackathon 2023 
 
