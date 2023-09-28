@@ -1,7 +1,7 @@
 # GirlHacks-2023
-For GirlHacks hackathon 2023 
+Try it out at: tinyverse-gh2023.streamlit.app
 
-tinyverse-gh2023.streamlit.app
+For GirlHacks hackathon 2023 
 
 Built with Python and Streamlit
 
